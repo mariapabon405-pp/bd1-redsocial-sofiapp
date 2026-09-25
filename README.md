@@ -10,7 +10,7 @@
 ##  Video de Sustentación
 Haz clic en el siguiente enlace o botón para ver la explicación del modelo lógico:
 
-👉 **[Ver Video de Sustentación en YouTube](https://youtu.be/A_B2fawRav8?si=W5S3dfx1MJpc1X0S)**
+ **[Ver Video de Sustentación en YouTube](https://youtu.be/A_B2fawRav8?si=W5S3dfx1MJpc1X0S)**
 
 ---
 
